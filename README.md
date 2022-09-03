@@ -1,3 +1,9 @@
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# middlewares
+Uso de middlewares de Laravel
+Usamos los middlewares que Laravel trae por defecto, acá aprendimos como aplicar middlewares a las rutas o a los controladores.
+Por lo general se lo aplicamos a las rutas.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -74,9 +80,3 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# middlewares
-Uso de middlewares de Laravel
-Usamos los middlewares que Laravel trae por defecto, acá aprendimos como aplicar middlewares a las rutas o a los controladores.
-Por lo general se lo aplicamos a las rutas.
